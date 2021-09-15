@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/8/3 16:16:13。
+     1>项目“d:\visual studio 2013\Projects\Project7阶乘for循环\Project7阶乘for循环\Project7阶乘for循环.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\visual studio 2013\projects\project7阶乘for循环\project7阶乘for循环\test.c(18): warning C4101: “j”: 未引用的局部变量
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\visual studio 2013\Projects\Project7阶乘for循环\Debug\Project7阶乘for循环.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\visual studio 2013\Projects\Project7阶乘for循环\Debug\Project7阶乘for循环.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\visual studio 2013\Projects\Project7阶乘for循环\Debug\Project7阶乘for循环.lib" /MACHINE:X86 Debug\test.obj
+         Project7阶乘for循环.vcxproj -> d:\visual studio 2013\Projects\Project7阶乘for循环\Debug\Project7阶乘for循环.exe
+     1>已完成生成项目“d:\visual studio 2013\Projects\Project7阶乘for循环\Project7阶乘for循环\Project7阶乘for循环.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.35
